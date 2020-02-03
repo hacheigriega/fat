@@ -1,5 +1,5 @@
 # Introduction
-Authors: Hyoung-yoon Kim
+Authors: Hyoung-yoon Kim  
 This project involved a simplified implementation of the FAT file system.   
 
 # Data Structures
