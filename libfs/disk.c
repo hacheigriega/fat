@@ -65,7 +65,7 @@ int block_disk_open(const char *diskname)
 int block_disk_close(void)
 {
 	if (disk.fd == INVALID_FD) {
-		block_error("no disk currently open");
+		block_error("no disk  currently open");
 		return -1;
 	}
 
